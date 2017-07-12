@@ -136,38 +136,12 @@ a:visited {
 
 #matteo-piccini-cover {
  background-image: url("http://i.imgur.com/AeRELhL.jpg");
-  border: 2px #63bedc solid;
-  -webkit-transition: 0.2s;
-  -moz-transition: 0.2s;
-  -o-transition: 0.2s;
-  transition: 0.2s;
-}
-
-#matteo-piccini-cover:hover {
-  -webkit-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -o-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  transform: scale(1.1);
 }
 
 #matteo-piccini-card {
  background-image: url("http://i.imgur.com/NC9uynx.jpg");
-  border: 2px #63bedc solid;
-  -webkit-transition: 0.2s;
-  -moz-transition: 0.2s;
-  -o-transition: 0.2s;
-  transition: 0.2s;
 }
 
-#matteo-piccini-card:hover {
-  border: 3px #63bedc solid;
-  -webkit-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -o-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  transform: scale(1.1);
-}
 
 
 #krystle-barnes-card {
